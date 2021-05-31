@@ -1,0 +1,32 @@
+﻿Сборка начата 29.04.2020 13:49:55.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\User\Documents\ОАиП\2 сем\OneMoreOlimp\OneMoreOlimp\OneMoreOlimp.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\Repeat.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TP /analyze- /FC /errorReport:prompt Repeat.cpp
+         Repeat.cpp
+     1>C:\Users\User\Documents\ОАиП\2 сем\OneMoreOlimp\OneMoreOlimp\Repeat.cpp(6,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+     1>C:\Users\User\Documents\ОАиП\2 сем\OneMoreOlimp\OneMoreOlimp\Repeat.cpp(15,20): warning C4018: <: несоответствие типов со знаком и без знака
+     1>C:\Users\User\Documents\ОАиП\2 сем\OneMoreOlimp\OneMoreOlimp\Repeat.cpp(20,22): warning C4018: <: несоответствие типов со знаком и без знака
+     1>C:\Users\User\Documents\ОАиП\2 сем\OneMoreOlimp\OneMoreOlimp\Repeat.cpp(10,8): warning C4101: ps: неиспользованная локальная переменная
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\User\Documents\ОАиП\2 сем\OneMoreOlimp\Debug\Repeat.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"C:\Users\User\Documents\ОАиП\2 сем\OneMoreOlimp\Debug\Repeat.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\User\Documents\ОАиП\2 сем\OneMoreOlimp\Debug\Repeat.lib" /MACHINE:X86 Debug\Repeat.obj
+         OneMoreOlimp.vcxproj -> C:\Users\User\Documents\ОАиП\2 сем\OneMoreOlimp\Debug\Repeat.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Repeat.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Repeat.tlog\Repeat.lastbuildstate".
+     1>Сборка проекта "C:\Users\User\Documents\ОАиП\2 сем\OneMoreOlimp\OneMoreOlimp\OneMoreOlimp.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "C:\Users\User\Documents\ОАиП\2 сем\OneMoreOlimp\OneMoreOlimp\OneMoreOlimp.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\Users\User\Documents\ОАиП\2 сем\OneMoreOlimp\OneMoreOlimp\Repeat.cpp(6,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+         C:\Users\User\Documents\ОАиП\2 сем\OneMoreOlimp\OneMoreOlimp\Repeat.cpp(15,20): warning C4018: <: несоответствие типов со знаком и без знака
+         C:\Users\User\Documents\ОАиП\2 сем\OneMoreOlimp\OneMoreOlimp\Repeat.cpp(20,22): warning C4018: <: несоответствие типов со знаком и без знака
+         C:\Users\User\Documents\ОАиП\2 сем\OneMoreOlimp\OneMoreOlimp\Repeat.cpp(10,8): warning C4101: ps: неиспользованная локальная переменная
+
+    Предупреждений: 4
+    Ошибок: 0
+
+Прошло времени 00:00:00.95

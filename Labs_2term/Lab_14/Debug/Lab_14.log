@@ -1,0 +1,35 @@
+﻿Сборка начата 19.05.2020 18:50:53.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\User\Documents\ОАиП\2 сем\Labs_2term\Lab_14\Lab_14.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\Lab_14.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TP /analyze- /FC /errorReport:prompt dop2.cpp dop3.cpp
+         dop2.cpp
+         dop3.cpp
+     1>C:\Users\User\Documents\ОАиП\2 сем\Labs_2term\Lab_14\dop3.cpp(53,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     1>C:\Users\User\Documents\ОАиП\2 сем\Labs_2term\Lab_14\dop3.cpp(77,15): warning C4101: t2: неиспользованная локальная переменная
+     1>C:\Users\User\Documents\ОАиП\2 сем\Labs_2term\Lab_14\dop3.cpp(77,11): warning C4101: t1: неиспользованная локальная переменная
+         Создание кода...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\User\Documents\ОАиП\2 сем\Labs_2term\Debug\Lab_14.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"C:\Users\User\Documents\ОАиП\2 сем\Labs_2term\Debug\Lab_14.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\User\Documents\ОАиП\2 сем\Labs_2term\Debug\Lab_14.lib" /MACHINE:X86 Debug\dop1.obj
+         Debug\dop2.obj
+         Debug\dop3.obj
+         Debug\Lab_14.obj
+         Lab_14.vcxproj -> C:\Users\User\Documents\ОАиП\2 сем\Labs_2term\Debug\Lab_14.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Lab_14.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Lab_14.tlog\Lab_14.lastbuildstate".
+     1>Сборка проекта "C:\Users\User\Documents\ОАиП\2 сем\Labs_2term\Lab_14\Lab_14.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "C:\Users\User\Documents\ОАиП\2 сем\Labs_2term\Lab_14\Lab_14.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\Users\User\Documents\ОАиП\2 сем\Labs_2term\Lab_14\dop3.cpp(53,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+         C:\Users\User\Documents\ОАиП\2 сем\Labs_2term\Lab_14\dop3.cpp(77,15): warning C4101: t2: неиспользованная локальная переменная
+         C:\Users\User\Documents\ОАиП\2 сем\Labs_2term\Lab_14\dop3.cpp(77,11): warning C4101: t1: неиспользованная локальная переменная
+
+    Предупреждений: 3
+    Ошибок: 0
+
+Прошло времени 00:00:01.15

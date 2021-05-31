@@ -1,0 +1,5 @@
+﻿  Lab_04_dops.cpp
+C:\Users\User\Documents\ОАиП\2 сем\Labs_2term\Lab_04\Lab_04_dops.cpp(308,14): warning C4101: ye: неиспользованная локальная переменная
+C:\Users\User\Documents\ОАиП\2 сем\Labs_2term\Lab_04\Lab_04_dops.cpp(308,23): warning C4101: auth: неиспользованная локальная переменная
+C:\Users\User\Documents\ОАиП\2 сем\Labs_2term\Lab_04\Lab_04_dops.cpp(336,6): warning C4101: a: неиспользованная локальная переменная
+  Lab_04.vcxproj -> C:\Users\User\Documents\ОАиП\2 сем\Labs_2term\Debug\Lab_04.exe

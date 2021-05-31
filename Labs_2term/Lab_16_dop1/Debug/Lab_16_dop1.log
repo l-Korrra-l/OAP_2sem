@@ -1,0 +1,26 @@
+﻿Сборка начата 02.06.2020 18:29:36.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\User\Documents\ОАиП\2 сем\Labs_2term\Lab_16_dop1\Lab_16_dop1.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\Lab_16_dop1.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TP /analyze- /FC /errorReport:prompt Lab_16_dop1.cpp
+         Lab_16_dop1.cpp
+     1>C:\Users\User\Documents\ОАиП\2 сем\Labs_2term\Lab_16_dop1\Lab_16_dop1.cpp(64,20): warning C4018: <: несоответствие типов со знаком и без знака
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\User\Documents\ОАиП\2 сем\Labs_2term\Debug\Lab_16_dop1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"C:\Users\User\Documents\ОАиП\2 сем\Labs_2term\Debug\Lab_16_dop1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\User\Documents\ОАиП\2 сем\Labs_2term\Debug\Lab_16_dop1.lib" /MACHINE:X86 Debug\Lab_16_dop1.obj
+         Lab_16_dop1.vcxproj -> C:\Users\User\Documents\ОАиП\2 сем\Labs_2term\Debug\Lab_16_dop1.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Lab_16_dop1.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Lab_16_dop1.tlog\Lab_16_dop1.lastbuildstate".
+     1>Сборка проекта "C:\Users\User\Documents\ОАиП\2 сем\Labs_2term\Lab_16_dop1\Lab_16_dop1.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "C:\Users\User\Documents\ОАиП\2 сем\Labs_2term\Lab_16_dop1\Lab_16_dop1.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\Users\User\Documents\ОАиП\2 сем\Labs_2term\Lab_16_dop1\Lab_16_dop1.cpp(64,20): warning C4018: <: несоответствие типов со знаком и без знака
+
+    Предупреждений: 1
+    Ошибок: 0
+
+Прошло времени 00:00:01.74
